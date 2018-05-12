@@ -1,4 +1,8 @@
 _repo: By-Blow-and-Kiss-The-Love-Story-of-a-Man-with-a-Bad-Name-Published-serially-under-the-title-U__48756
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48756-h/images/cover.jpg
 creator:
   author:
     agent_name: Cable, Boyd
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3947'
     url: http://www.gutenberg.org/2009/agents/3947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48756#By-Blow-and-Kiss-The-Love-Story-of-a-Man-with-a-Bad-Name-Published-serially-under-the-title-U_
 gutenberg_issued: '2015-04-20'
 gutenberg_type: Text
 identifiers:
